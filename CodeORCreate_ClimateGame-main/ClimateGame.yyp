@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},"order":1,},
-    {"id":{"name":"Button","path":"objects/Button/Button.yy",},"order":0,},
+    {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"order":0,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"order":0,},
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},"order":1,},
