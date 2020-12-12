@@ -5,6 +5,7 @@
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"order":0,},
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},"order":1,},
+    {"id":{"name":"Test","path":"objects/Test/Test.yy",},"order":2,},
     {"id":{"name":"font_main","path":"fonts/font_main/font_main.yy",},"order":0,},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},"order":1,},
   ],
@@ -39,7 +40,6 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/spr_calender.yy","order":2,"resourceVersion":"1.0","name":"spr_calender","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
