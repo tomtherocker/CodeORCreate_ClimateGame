@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 1279,
-  "bbox_top": 0,
-  "bbox_bottom": 719,
+  "bbox_left": 15,
+  "bbox_right": 239,
+  "bbox_top": 47,
+  "bbox_bottom": 209,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1280,
-  "height": 720,
+  "width": 256,
+  "height": 256,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"LayerId":{"name":"c82a2f59-34de-4bc7-a97b-d44d66da36e1","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"resourceVersion":"1.0","name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"331d5421-2a75-46d4-bc0b-4fafe6d5d8f3","path":"sprites/money/money.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"331d5421-2a75-46d4-bc0b-4fafe6d5d8f3","path":"sprites/money/money.yy",},"LayerId":{"name":"1c8c33d7-d10f-49ff-8bf3-aa2d9acb1fd7","path":"sprites/money/money.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"money","path":"sprites/money/money.yy",},"resourceVersion":"1.0","name":"331d5421-2a75-46d4-bc0b-4fafe6d5d8f3","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
+    "spriteId": {"name":"money","path":"sprites/money/money.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c7fd5c56-9f7e-4937-b6c0-d234db06a278","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5310d710-1072-4628-aca8-c33c4549865a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"331d5421-2a75-46d4-bc0b-4fafe6d5d8f3","path":"sprites/money/money.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
+    "parent": {"name":"money","path":"sprites/money/money.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_titlescreen",
+    "name": "money",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c82a2f59-34de-4bc7-a97b-d44d66da36e1","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1c8c33d7-d10f-49ff-8bf3-aa2d9acb1fd7","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_titlescreen",
+  "name": "money",
   "tags": [],
   "resourceType": "GMSprite",
 }

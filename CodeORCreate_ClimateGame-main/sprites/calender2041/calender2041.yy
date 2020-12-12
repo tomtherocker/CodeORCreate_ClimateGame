@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 1279,
+  "bbox_right": 255,
   "bbox_top": 0,
-  "bbox_bottom": 719,
+  "bbox_bottom": 255,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 1280,
-  "height": 720,
+  "width": 256,
+  "height": 256,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"LayerId":{"name":"c82a2f59-34de-4bc7-a97b-d44d66da36e1","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"resourceVersion":"1.0","name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"07e35f2e-e8e0-4ca3-b892-55c4598a0398","path":"sprites/calender2041/calender2041.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"07e35f2e-e8e0-4ca3-b892-55c4598a0398","path":"sprites/calender2041/calender2041.yy",},"LayerId":{"name":"3f8a5933-3cec-4d3a-899d-50eefd407313","path":"sprites/calender2041/calender2041.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"calender2041","path":"sprites/calender2041/calender2041.yy",},"resourceVersion":"1.0","name":"07e35f2e-e8e0-4ca3-b892-55c4598a0398","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
+    "spriteId": {"name":"calender2041","path":"sprites/calender2041/calender2041.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c7fd5c56-9f7e-4937-b6c0-d234db06a278","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04079f9b-93ff-4adf-81b1-c8753aa943ec","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"387dae9a-c2d9-464c-86df-1402a2cd7ff0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"07e35f2e-e8e0-4ca3-b892-55c4598a0398","path":"sprites/calender2041/calender2041.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
+    "parent": {"name":"calender2041","path":"sprites/calender2041/calender2041.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_titlescreen",
+    "name": "calender2041",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c82a2f59-34de-4bc7-a97b-d44d66da36e1","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"3f8a5933-3cec-4d3a-899d-50eefd407313","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "group_calender",
+    "path": "folders/Sprites/group_calender.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_titlescreen",
+  "name": "calender2041",
   "tags": [],
   "resourceType": "GMSprite",
 }
