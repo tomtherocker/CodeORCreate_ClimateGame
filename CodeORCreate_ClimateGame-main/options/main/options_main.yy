@@ -1,5 +1,5 @@
 {
-  "option_gameguid": "f972d827-6b3f-4539-9795-451d103bcce8",
+  "option_gameguid": "2f5e7ed4-2f6b-4f2f-8c8e-9babf011894b",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
   "option_draw_colour": 4294967295,
@@ -7,8 +7,8 @@
   "option_steam_app_id": "0",
   "option_sci_usesci": true,
   "option_author": "",
-  "option_lastchanged": "12 December 2020 18:03:20",
-  "option_spine_licence": false,
+  "option_lastchanged": "13 December 2020 4:26:06",
+  "option_spine_licence": true,
   "resourceVersion": "1.2",
   "name": "Main",
   "tags": [],
