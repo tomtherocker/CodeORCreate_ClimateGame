@@ -5,7 +5,6 @@
     {"id":{"name":"tl_story","path":"timelines/tl_story/tl_story.yy",},"order":0,},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"order":0,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
     {"id":{"name":"spr_red","path":"sprites/spr_red/spr_red.yy",},"order":2,},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},"order":0,},
     {"id":{"name":"spr_button","path":"sprites/spr_button/spr_button.yy",},"order":4,},
