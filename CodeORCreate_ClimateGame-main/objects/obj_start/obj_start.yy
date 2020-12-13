@@ -1,10 +1,7 @@
 {
-  "spriteId": {
-    "name": "spr_button",
-    "path": "sprites/spr_button/spr_button.yy",
-  },
+  "spriteId": null,
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":13,"eventType":10,"collisionObjectId":null,"parent":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_button",
+  "name": "obj_start",
   "tags": [],
   "resourceType": "GMObject",
 }
