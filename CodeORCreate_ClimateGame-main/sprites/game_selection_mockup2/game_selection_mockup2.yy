@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},"LayerId":{"name":"0f6ef333-20a2-4ac6-8bb6-87d32eb61a5a","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"game_selection_mockup","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},"resourceVersion":"1.0","name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},"LayerId":{"name":"0f6ef333-20a2-4ac6-8bb6-87d32eb61a5a","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"game_selection_mockup2","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},"resourceVersion":"1.0","name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"game_selection_mockup","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},
+    "spriteId": {"name":"game_selection_mockup2","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3ac9f265-f6e3-4684-b922-c3a5798ab863","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3ac9f265-f6e3-4684-b922-c3a5798ab863","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d0ee651c-447d-40a3-b5fe-9c5ce8dbd195","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"game_selection_mockup","path":"sprites/game_selection_mockup/game_selection_mockup.yy",},
+    "parent": {"name":"game_selection_mockup2","path":"sprites/game_selection_mockup2/game_selection_mockup2.yy",},
     "resourceVersion": "1.3",
-    "name": "game_selection_mockup",
+    "name": "game_selection_mockup2",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -72,7 +72,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "game_selection_mockup",
+  "name": "game_selection_mockup2",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8f2af7ce-28b1-4f0d-bf6a-88a1a3ae91fb","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8f2af7ce-28b1-4f0d-bf6a-88a1a3ae91fb","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},"LayerId":{"name":"ec0ae673-191a-4e30-8d45-23416a42967d","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"game_gain_mockup","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},"resourceVersion":"1.0","name":"8f2af7ce-28b1-4f0d-bf6a-88a1a3ae91fb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"15539eec-ad81-4418-96d7-74dc86d5ac05","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"15539eec-ad81-4418-96d7-74dc86d5ac05","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},"LayerId":{"name":"7eb082d1-f269-444e-8c0d-1e6a226d9910","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"game_penalty_mockup3","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},"resourceVersion":"1.0","name":"15539eec-ad81-4418-96d7-74dc86d5ac05","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"game_gain_mockup","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},
+    "spriteId": {"name":"game_penalty_mockup3","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"5501942a-e16f-4dbe-ae77-e2849f47a667","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8f2af7ce-28b1-4f0d-bf6a-88a1a3ae91fb","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"46f51d24-0c2a-4e33-9564-ea76907d3d94","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"15539eec-ad81-4418-96d7-74dc86d5ac05","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"game_gain_mockup","path":"sprites/game_gain_mockup/game_gain_mockup.yy",},
+    "parent": {"name":"game_penalty_mockup3","path":"sprites/game_penalty_mockup3/game_penalty_mockup3.yy",},
     "resourceVersion": "1.3",
-    "name": "game_gain_mockup",
+    "name": "game_penalty_mockup3",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ec0ae673-191a-4e30-8d45-23416a42967d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7eb082d1-f269-444e-8c0d-1e6a226d9910","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "game_gain_mockup",
+  "name": "game_penalty_mockup3",
   "tags": [],
   "resourceType": "GMSprite",
 }

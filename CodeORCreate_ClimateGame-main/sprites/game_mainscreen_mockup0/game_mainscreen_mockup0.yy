@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"15539eec-ad81-4418-96d7-74dc86d5ac05","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"15539eec-ad81-4418-96d7-74dc86d5ac05","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},"LayerId":{"name":"7eb082d1-f269-444e-8c0d-1e6a226d9910","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"game_penalty_mockup","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},"resourceVersion":"1.0","name":"15539eec-ad81-4418-96d7-74dc86d5ac05","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"28bc6c57-b6a0-4cc7-9a7c-bee0f28df3ee","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"28bc6c57-b6a0-4cc7-9a7c-bee0f28df3ee","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},"LayerId":{"name":"8edde98a-590c-4241-bfe9-c7fcf28ac150","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"game_mainscreen_mockup0","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},"resourceVersion":"1.0","name":"28bc6c57-b6a0-4cc7-9a7c-bee0f28df3ee","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"game_penalty_mockup","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},
+    "spriteId": {"name":"game_mainscreen_mockup0","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"46f51d24-0c2a-4e33-9564-ea76907d3d94","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"15539eec-ad81-4418-96d7-74dc86d5ac05","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7ab72a38-10ac-4599-87a5-85660f856378","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"28bc6c57-b6a0-4cc7-9a7c-bee0f28df3ee","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"game_penalty_mockup","path":"sprites/game_penalty_mockup/game_penalty_mockup.yy",},
+    "parent": {"name":"game_mainscreen_mockup0","path":"sprites/game_mainscreen_mockup0/game_mainscreen_mockup0.yy",},
     "resourceVersion": "1.3",
-    "name": "game_penalty_mockup",
+    "name": "game_mainscreen_mockup0",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7eb082d1-f269-444e-8c0d-1e6a226d9910","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8edde98a-590c-4241-bfe9-c7fcf28ac150","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "game_penalty_mockup",
+  "name": "game_mainscreen_mockup0",
   "tags": [],
   "resourceType": "GMSprite",
 }
